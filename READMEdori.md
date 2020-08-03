@@ -1,11 +1,6 @@
-### Steps
 
-## Step 1
-# grid
-    * initial- html/css 
-    
-# furry
-    * afissare furry intr-o casuta 
+
+
 
 # moneda
     * afisare coin intr-o casuta 
